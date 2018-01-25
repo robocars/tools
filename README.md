@@ -21,6 +21,6 @@ A simple script to broadcast emergency stop signal (network must accept local br
 * camstream.sh
 A script to connect and stream video from a YI 2K Action Camera to a VLC, VLC being launched to display AND record video stream
 
-* Data visualisation and model training.ipynb
+* Data visualisation and model Data visualisation and model training.ipynb
 A Jupyter notebook to analyse data, run training and prediction
 
